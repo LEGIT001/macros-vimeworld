@@ -1,0 +1,4 @@
+REGEDIT.ZIBLACKINGGG-AMZEKH
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
+"TcpNoDelay"=dword:-1
+"TcpAckFrequency"=dword:-1

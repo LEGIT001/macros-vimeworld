@@ -1,0 +1,2 @@
+Amzekh Dns private : 8.8.8.8
+                     190.202.81.115

@@ -1,0 +1,7 @@
+REGEDIT.AMZEKH-PRIVATE
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
+"TcpNoDelay"=dword:-999999999
+"TcpAckFrequency"=dword:-999999999
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Pshed]
+"NonBestEffortLimit"=dword:00000000
